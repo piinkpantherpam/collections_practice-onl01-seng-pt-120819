@@ -45,12 +45,8 @@ def find_a(array)
   array.find_all do |word|
     word[0] == "a"
   end
-  
-  
-  
-  
-  
-  
+end
+
   find_a(["apple", "orange", "pear", "avis", "arlo", "ascot" ])
   
   def sum_array(array)
@@ -59,7 +55,7 @@ def find_a(array)
     sum+=num
   end
   sum
-end 
+  end 
 end
 
 sum_array([11,4,7,8,9,100,134])
