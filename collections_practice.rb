@@ -25,13 +25,13 @@ def swap_elements(array)
   array
 end
 
-swap_elements(["blake", "ashley", "scott"]) #["blake", "scott", "ashley"]
+swap_elements(["blake", "ashley", "scott"]) 
 
 def reverse_array(array)
   array.reverse
 end
 
-reverse_array(["blake", "ashley", "scott"]) #["scott", "ashley", "blake"]
+reverse_array(["blake", "ashley", "scott"]) 
 
 def kesha_maker(array)
   array.each do |item|
@@ -39,7 +39,7 @@ def kesha_maker(array)
   end
 end
 
-kesha_maker(["blake", "ashley", "scott"]) #["bl$ke", "as$ley", "sc$tt"]
+kesha_maker(["blake", "ashley", "scott"]) 
 
 def find_a(array)
   array.find_all do |word|
