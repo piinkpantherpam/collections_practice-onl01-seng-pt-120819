@@ -25,3 +25,5 @@ def swap_elements(array)
   array
 end
 
+swap_elements(["blake", "ashley", "scott"])
+
