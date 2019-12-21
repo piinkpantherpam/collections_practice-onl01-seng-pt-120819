@@ -55,15 +55,6 @@ def find_a(array)
   end
   sum
 end 
-
-
-
-
-
-
-
-
-
 end
 
 sum_array([11,4,7,8,9,100,134])
