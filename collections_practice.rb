@@ -46,6 +46,9 @@ def find_a(array)
     word[0] == "a"
   end
   
+  
+  
+  
   find_a(["apple", "orange", "pear", "avis", "arlo", "ascot" ])
   
   def sum_array(array)
